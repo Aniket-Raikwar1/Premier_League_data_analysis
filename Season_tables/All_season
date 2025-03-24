@@ -605,3 +605,43 @@ Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Pts/MP,Attendance,Top Team Scorer,Goalkeeper,Note
 18, Burnley,38,7,14,17,34,53,-19,35,0.92,19278,Maxwel Cornet,Nick Pope,Relegated,2021-2022,9,6,No
 19, Watford,38,6,5,27,34,77,-43,23,0.61,20614,Emmanuel Dennis,Ben Foster,Relegated,2021-2022,10,1,Yes
 20, Norwich City,38,5,7,26,23,84,-61,22,0.58,26836,Teemu Pukki,Tim Krul,Relegated,2021-2022,11,1,Yes
+1,Manchester City,38,28,5,5,94,33,61,89,2.34,53249,Erling Haaland,Ederson,→ Champions League via league finish,2022-2023,36,1,Yes
+2,Arsenal,38,26,6,6,88,43,45,84,2.21,60191,"Martin Ødegaard, Gabriel Martinelli",Aaron Ramsdale,→ Champions League via league finish,2022-2023,15,1,Yes
+3,Manchester Utd,38,23,6,9,58,43,15,75,1.97,73671,Marcus Rashford,David de Gea,→ Champions League via league finish,2022-2023,17,1,Yes
+4,Newcastle Utd,38,19,14,5,68,33,35,71,1.87,52127,Callum Wilson,Nick Pope,→ Champions League via league finish,2022-2023,18,1,Yes
+5,Liverpool,38,19,10,9,75,47,28,67,1.76,53163,Mohamed Salah,Alisson,→ Europa League via league finish,2022-2023,19,1,Yes
+6,Brighton,38,18,8,12,72,53,19,62,1.63,31477,Alexis Mac Allister,Robert Sánchez,→ Europa League via league finish,2022-2023,10,1,Yes
+7,Aston Villa,38,18,7,13,51,46,5,61,1.61,41679,Ollie Watkins,Emiliano Martínez,→ Europa Conference League via league finish,2022-2023,15,1,Yes
+8,Tottenham,38,18,6,14,70,63,7,60,1.58,61585,Harry Kane,Hugo Lloris,,2022-2023,30,1,Yes
+9,Brentford,38,15,14,9,58,46,12,59,1.55,17078,Ivan Toney,David Raya,,2022-2023,20,1,Yes
+10,Fulham,38,15,7,16,55,53,2,52,1.37,23746,Aleksandar Mitrović,Bernd Leno,,2022-2023,14,1,Yes
+11,Crystal Palace,38,11,12,15,40,49,-9,45,1.18,24952,Eberechi Eze,Vicente Guaita,,2022-2023,10,1,Yes
+12,Chelsea,38,11,11,16,38,47,-9,44,1.16,40002,Kai Havertz,Kepa Arrizabalaga,,2022-2023,7,1,Yes
+13,Wolves,38,11,8,19,31,58,-27,41,1.08,31482,"Rúben Neves, Daniel Podence",José Sá,,2022-2023,6,1,Yes
+14,West Ham,38,11,7,20,42,55,-13,40,1.05,62462,"Saïd Benrahma, Jarrod Bowen",Łukasz Fabiański,,2022-2023,6,1,Yes
+15,Bournemouth,38,11,6,21,37,71,-34,39,1.03,10362,Philip Billing,Neto,,2022-2023,7,1,Yes
+16,Nott'ham Forest,38,9,11,18,38,68,-30,38,1.0,29188,Taiwo Awoniyi,Dean Henderson,,2022-2023,10,1,Yes
+17,Everton,38,8,12,18,34,57,-23,36,0.95,39243,Dwight McNeil,Jordan Pickford,,2022-2023,7,1,Yes
+18,Leicester City,38,9,7,22,51,68,-17,34,0.89,31887,Harvey Barnes,Danny Ward,Relegated,2022-2023,13,1,Yes
+19,Leeds United,38,7,10,21,48,78,-30,31,0.82,36566,Rodrigo,Illan Meslier,Relegated,2022-2023,13,1,Yes
+20,Southampton,38,6,7,25,36,73,-37,25,0.66,30440,James Ward-Prowse,Gavin Bazunu,Relegated,2022-2023,9,1,Yes
+1,Manchester City,38,28,7,3,96,34,62,91,2.39,53012,Erling Haaland,Ederson,→ Champions League via league finish,2023-2024,27,2,No
+2,Arsenal,38,28,5,5,91,29,62,89,2.34,60236,Bukayo Saka,David Raya,→ Champions League via league finish,2023-2024,16,2,No
+3,Liverpool,38,24,10,4,86,41,45,82,2.16,55979,Mohamed Salah,Alisson,→ Champions League via league finish,2023-2024,18,2,No
+4,Aston Villa,38,20,8,10,76,61,15,68,1.79,41858,Ollie Watkins,Emiliano Martínez,→ Champions League via league finish,2023-2024,19,2,No
+5,Tottenham,38,20,6,12,74,61,13,66,1.74,61482,Son Heung-min,Guglielmo Vicario,→ Europa League via league finish,2023-2024,17,2,No
+6,Chelsea,38,18,9,11,77,63,14,63,1.66,39524,Cole Palmer,Đorđe Petrović,→ Europa Conference League via league finish,2023-2024,22,2,No
+7,Newcastle Utd,38,18,6,14,85,62,23,60,1.58,52125,Alexander Isak,Martin Dúbravka,,2023-2024,21,2,No
+8,Manchester Utd,38,18,6,14,57,58,-1,60,1.58,73533,"Rasmus Højlund, Bruno Fernandes",André Onana,→ Europa League via cup win,2023-2024,10,2,No
+9,West Ham,38,14,10,14,60,74,-14,52,1.37,62567,Jarrod Bowen,Alphonse Areola,,2023-2024,16,2,No
+10,Crystal Palace,38,13,10,15,57,58,-1,49,1.29,24932,Jean-Philippe Mateta,Sam Johnstone,,2023-2024,16,2,No
+11,Brighton,38,12,12,14,55,62,-7,48,1.26,32638,João Pedro,Bart Verbruggen,,2023-2024,9,2,No
+12,Bournemouth,38,13,9,16,54,67,-13,48,1.26,11103,Dominic Solanke,Neto,,2023-2024,19,2,No
+13,Fulham,38,13,8,17,55,61,-6,47,1.24,24302,Rodrigo Muniz,Bernd Leno,,2023-2024,9,2,No
+14,Wolves,38,13,7,18,50,65,-15,46,1.21,31029,"Hwang Hee-chan, Matheus Cunha",José Sá,,2023-2024,12,2,No
+15,Everton,38,13,9,16,40,51,-11,42,1.11,39042,"Abdoulaye Doucouré, Dominic Calvert-Lewin",Jordan Pickford,6-point deduction 1,2023-2024,7,2,No
+16,Brentford,38,10,9,19,56,65,-9,39,1.03,17082,Yoane Wissa,Mark Flekken,,2023-2024,12,2,No
+17,Nott'ham Forest,38,9,9,20,49,67,-18,32,0.84,29386,Chris Wood,Matt Turner,4-point deduction 2,2023-2024,14,2,No
+18,Luton Town,38,6,8,24,52,85,-33,26,0.68,11240,Carlton Morris,Thomas Kaminski,Relegated,2023-2024,11,1,Yes
+19,Burnley,38,5,9,24,41,78,-37,24,0.63,21184,Jacob Bruun Larsen,James Trafford,Relegated,2023-2024,6,1,Yes
+20,Sheffield Utd,38,3,7,28,35,104,-69,16,0.42,30011,"Oliver McBurnie, Ben Brereton",Wes Foderingham,Relegated,2023-2024,6,1,Yes
